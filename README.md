@@ -1,1 +1,1 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
